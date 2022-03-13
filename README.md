@@ -1,2 +1,2 @@
 # Parallel-Time-Integrators-Project
-A collection of python files containing the code used to conduct numerical tests in my final year project.
+These code files include the implementations of various algorithms, as well as graphs and tables referenced in the project.
